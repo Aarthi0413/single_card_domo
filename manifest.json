@@ -1,0 +1,17 @@
+{
+  "name": "first_design",
+  "version": "0.1.0",
+  "size": {
+    "width": 5,
+    "height": 3
+  },
+  "mapping": [
+    {
+      "dataSetId": "8acb50b9-d04c-4839-8944-2e71b5ad03be",
+      "alias": "olist_data",
+      "fields": []
+    }
+  ],
+  "fileName": "manifest.json",
+  "id": "d733939c-2c24-4b42-b5aa-380f2e27e0c0"
+}
